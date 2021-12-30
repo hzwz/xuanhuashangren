@@ -1,0 +1,60 @@
+﻿.article {font-size: 12pt;line-height: 20pt;font-family: "新細明體";color:#000000; }
+.articleb {font-size: 12pt;line-height: 20pt;font-family:"Times New Roman";color:#000000; }
+.t8 {font-size: 20pt; font-family:"新細明體"; color:#000000; font-weight:bold; margin-top:11px; margin-bottom:10px}
+.t8b {font-size: 20pt; font-family:"Times New Roman"; color:#000000; font-weight:bold; margin-top:10px; margin-bottom:10px}
+.t7b {
+	font-size: 13pt;
+	font-family:"Times New Roman";
+	 color:#B07232;
+	font-weight:bold;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+
+.verse {font-size: 14pt;line-height: 20pt; font-family: "標楷體";color:#000000}
+.verseb {font-size: 14pt;line-height: 20pt; font-family: "Bookman Old Style";color:#000000}
+
+.t1 {font-size: 10pt;font-family:"新細明體"; color:#868686; margin-left:10px; margin-right:10px; margin-top:10px}
+.t1b {font-size: 10pt;font-family:"Arial"; color:#868686; margin-left:10px; margin-right:10px; margin-top:5px}
+.t2 {font-size: 10pt;font-family:"新細明體"; color:#868686; margin-left:10px; margin-right:10px; margin-top:10px; margin-bottom:10px}
+.t2b {font-size: 10pt;font-family:"Arial"; color:#868686; margin-left:10px; margin-right:10px}
+.t3 {font-size: 12pt;font-family:"新細明體"; color:#000000; margin-left:12pt; font-weight:bold}
+.t4 {font-size: 10pt;font-family:"新細明體"; color:#868686; margin-top:5px}
+.t5 {font-size: 15pt;font-family:"Times New Roman"; color:#B07232; margin-left:14px; margin-right:14px }
+.t6 {font-size: 10pt;font-family:"Arial"; color:#868686; line-height:150% }
+.t7 {
+	font-size: 14pt;
+	font-family:"新細明體";
+	color:black;
+	font-weight:bold;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+}
+.content {font-size: 12pt;line-height: 150%;font-family: "新細明體";color:#868686; margin-top:2; margin-bottom:2 }
+.contentb {font-size: 11pt;line-height: 150%;font-family: "Garamond";color:#868686; margin-top:2; margin-bottom:2 }
+.articletitle {	font-size: 18pt;font-family: "新細明體";color:#cc6600;font-weight:900;text-align: center;margin-top:20px; margin-bottom:30px}
+.date {	font-size: 10pt;font-family: "新細明體";color: #868686}
+.title3 {
+	font-size: 20pt;
+	font-family: "新細明體";
+	color: #BFBFBF;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+.title3b {font-size: 20pt;font-family:"Times New Roman"; color: #BFBFBF; font-weight:bold; margin-bottom:2px}
+a.A1 {text-decoration: none;}
+a:link.A1 {color:#868686}
+a:visited.A1 {color:#868686}
+a:active.A1 {color:#868686}
+a:hover.A1 {color:#B07232; text-decoration:none}
+a.A2 {
+	text-decoration: none;
+}
+a:link.A2 {color:#3333FF}
+a:visited.A2 {color:#3333FF}
+a:active.A2 {color:#3333FF}
+a:hover.A2 {color:#3333FF; text-decoration:none}

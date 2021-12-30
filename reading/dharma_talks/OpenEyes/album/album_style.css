@@ -1,0 +1,19 @@
+.t1 {font-size: 10pt;font-family:"新細明體"; color:#868686; line-height:150%}
+.t1b {font-size: 10pt;font-family:"Arial"; color:#868686; margin-left:10px; margin-right:10px}
+.t2 {font-size: 10pt;font-family:"新細明體"; color:#868686; margin-left:10px; margin-right:10px}
+.t3 {font-size: 12pt;font-family:"新細明體"; color:#868686}
+.t4 {font-size: 12pt;font-family:"新細明體"; color:#000000; font-weight:bold}
+.t5 {font-size: 15pt;font-family:"Times New Roman"; color:#B07232 }
+.t6 {font-size: 12pt;font-family:"新細明體"; color:#868686; line-height:20pt}
+.t7 {font-size: 12pt;font-family:"新細明體";color:#B07232;font-weight:bold;border: 1px solid #B07232;padding-top: 5px;
+	padding-right: 3px;padding-bottom: 3px;padding-left: 3px;background-color: #F4E9DD}
+.t8 {font-size: 20pt;font-family:"新細明體"; color:#000000; font-weight:bold}
+.t8b {font-size: 14pt;font-family:"Times New Roman"; color:#000000; }
+.t9 {font-size: 12pt;font-family:"Times New Roman"; color:#000000; line-height:150%; font-weight:bold}
+.t10 {font-size: 9pt;font-family:"Arial"; color:#868686; line-height:150%}
+.t11 {font-size: 14pt;font-family:"新細明體"; color:#000000; line-height:20pt; font-weight:bold}
+a {text-decoration: none;}
+a:link {color:#868686}
+a:visited {color:#868686}
+a:active {color:#868686}
+a:hover {color:#B07232; text-decoration:underline}

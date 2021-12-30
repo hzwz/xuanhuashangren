@@ -1,0 +1,498 @@
+.t1 {font-size: 10pt;font-family:"新細明體"; color:#868686; text-align:center; line-height:150%}
+.t1b {font-size: 10pt;font-family:"新細明體"; color:#868686; text-align:center; line-height:120%; margin-top:3; margin-bottom:6}
+.t2 {font-size: 10pt;font-family:"新細明體"; color:#868686; text-align:left; line-height:150%}
+.t2b {font-size: 10pt;font-family:"新細明體"; color:#868686}
+.t3 {font-size: 11pt;font-family:"新細明體"; color:#868686; text-align:left; line-height:150%}
+.t3b {font-size: 11pt;font-family:"新細明體"; color:#868686; text-align:center; line-height:150%}
+.t4 {font-size: 12pt;line-height: 20pt;font-family: "新細明體";color:#000000;text-align: left; font-weight:bold}
+.t4b {font-size: 12pt;line-height: 20pt;font-family: "新細明體";color:#868686; font-weight:bold}
+.t5 {font-size: 12pt;line-height: 20pt;font-family: "新細明體";color:#000000;text-align: left; font-weight:bold; margin-left:100}
+.t6{FONT-SIZE: 20pt; color: #666699; FONT-FAMILY: "新細明體"; margin-top:12; font-weight:bold}
+.t7{FONT-SIZE: 10pt; color: #CACADB; FONT-FAMILY: "Arial"; line-height:150%; text-align:right}
+.t7b{FONT-SIZE: 9pt; color: #686868; FONT-FAMILY: "Arial"; line-height:150%; text-align:left}
+.t8{FONT-SIZE: 10pt; color: #CACADB; FONT-FAMILY: "Arial"; line-height:150%; text-align:left}
+.title {font-size: 18pt;font-family:"新細明體";color:#000000;font-weight:bold;margin-bottom:15px;text-align:center;
+	padding-bottom: 10px;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #CCCCCC}
+.title2 {font-size: 18pt;font-family:"新細明體";color:#000000;font-weight:bold;margin-bottom:30px;text-align:center;
+	padding-bottom: 10px;border-bottom-width: 1px;border-bottom-style: solid;border-bottom-color: #CCCCCC}
+.title3 {font-size: 18pt;font-family:"新細明體";color:#000000;font-weight:bold;margin-bottom:25px;text-align:center}
+.title4 {border-bottom:1px solid #CCCCCC; font-size: 16pt;font-family:"Times New Roman";color:#000000;font-weight:400;margin-bottom:15px;text-align:left;
+	padding-bottom: 10px;}
+.sutra {font-size: 12pt;line-height: 20pt;font-family: "新細明體";color:#000000;font-weight:bold;text-align: left}
+.sutra2 {font-size: 12pt;line-height: 20pt;font-family: "新細明體";color:#000000;font-weight:bold;text-align: center}
+.commentary {font-size: 12pt;line-height: 20pt;font-family: "新細明體";color:#000000}
+.commentary2 {font-size: 12pt;line-height: 20pt;font-family: "新細明體";color:#868686;text-align:center}
+.commentary3 {font-size: 12pt;font-family: "新細明體";color:#868686;text-align:left}
+.commentary4 {font-size: 12pt;line-height: 20pt;font-family: "Times New Roman";color:#868686;text-align:left}
+.verse {font-size: 14pt;line-height:150%; font-family: "標楷體"; color:#CC0000; text-align:center}
+.verse2 {
+	font-size: 14pt;
+	line-height:150%;
+	font-family: "標楷體";
+	color:#996600;
+	text-align:center;
+	background-color: #FFFAEE;
+	border: 1px solid #996600;
+	margin-bottom: 30px;
+	padding: 6pt;
+
+}
+.subtitle {
+	font-size: 12pt;
+	line-height:150%;
+	font-family: "新細明體";
+	color:#666699;
+	text-align:center;
+	background-color: #F7F7F9;
+	border: 1px solid #666699;
+	margin-bottom: 30px;
+	padding: 2pt; font-weight:bold
+
+}
+.subtitle6 {
+	font-size: 12pt;
+	line-height:150%;
+	font-family: "新細明體";
+	color:#666699;
+	background-color: #F7F7F9;
+	border: 1px solid #666699;
+	margin-bottom: 30px;
+	padding-left: 6pt; 
+	padding-right: 2pt;	
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+}
+.subtitle5 {
+	font-size: 12pt;
+	line-height:150%;
+	font-family: "新細明體";
+	color:#666699;
+	text-align:center;
+	background-color: #F7F7F9;
+	border: 1px solid #666699;
+	padding: 2pt;
+
+}
+.subtitle2 {
+	border:1px solid #CCCCCC; font-size: 12pt;
+	line-height:150%;
+	font-family: "新細明體";
+	color:#000000;
+	text-align:center;
+	background-color: #FFFFFF;
+	margin-bottom: 30px;
+	padding: 2pt; font-weight:bold
+
+}
+
+
+.english8 {
+	font-size: 8pt;
+	font-family: Arial, "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+}
+.english8b {
+	font-size: 8pt;
+	font-family: Arial, "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	margin-top:20px;
+}
+.english9 {
+	font-size: 9pt;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	color:#FFFFFF;
+	margin-left:10px;
+	margin-right:10px;
+}
+.english9b {
+	font-size: 9pt;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	line-height:150%;
+	text-align:right;
+	margin-right:15px;
+}
+.english9c {
+	font-size: 9pt;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	line-height:150%;
+}
+.english9d {
+	font-size: 9pt;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	line-height:135%;
+	text-align:center;
+	background-color: #FFF8DF;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	border-top-width: 8px;
+	border-bottom-width: 8px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+}
+.english9e {
+	font-size: 9pt;
+	font-family: Arial, "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	text-align:right;
+	margin-top:20px;
+	margin-bottom:30px;
+}
+.english10 {
+	font-size: 10pt;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	line-height:150%;
+	margin-bottom:10px;
+	text-align:center;
+}
+.english10b {
+	font-size: 10pt;
+	font-family: Arial, "Times New Roman", Helvetica, sans-serif;
+	color:#FFFFFF;
+}
+.english10c {
+	font-size: 10pt;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	color:#FFFFFF;
+	padding-top: 1px;
+	padding-right: 30px;
+	padding-bottom: 1px;
+	padding-left: 30px;
+	background-color: #A8A8A8;
+}
+.english10d {
+	font-size: 10pt;
+	font-family: Arial, "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	line-height:150%;
+}
+.english11 {
+	font-size: 11pt;
+	font-family: "Times New Roman", Times, serif;
+	color:#000000;
+	line-height:150%;
+	font-weight:bold;
+}
+.english11b {
+	font-size: 11pt;
+	font-family: "Times New Roman", Times, serif;
+	color:#000000;
+	line-height:150%;
+}
+.english11c {
+	font-size: 11pt;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	line-height:150%;
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+}
+.english12 {
+	font-size: 12pt;
+	font-family: "Arial", Times, serif;
+	color:#000000;
+	line-height:260%;
+}
+.english14 {
+	font-size: 14pt;
+	font-family: "Times New Roman", Times, serif;
+	color:#000000;
+}
+.english15 {
+	font-size: 15pt;
+	font-family: "Times New Roman", Times, serif;
+	color:#000000;
+	text-align:center;
+}
+.english15b {
+	font-size: 15pt;
+	font-family: "Times New Roman", Times, serif;
+	color:#000000;
+	text-align:center;
+	margin-top:35px;
+	margin-bottom:30px;
+	line-height:130%;
+}
+.english18 {
+	font-size: 18pt;
+	font-family: "Arial", Times, serif;
+	color:#000000;
+	text-align:left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #C0C0C0;
+}
+.chinese9 {
+	font-size: 9pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#999999;
+	line-height:150%;
+}
+.chinese9b {
+	font-size: 9pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	margin-top:20px;
+}
+.chinese10 {
+	font-size: 10pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	line-height:150%;
+	margin-left:15px;
+	margin-top:3px;
+}
+.chinese10b {
+	font-size: 10pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#FFFFFF;
+	line-height:150%;
+}
+.chinese10c {
+	font-size: 10pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	line-height:150%;
+}
+.chinese11 {
+	font-size: 11pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	line-height:150%;
+	text-align:center;
+}
+.chinese11b {
+	font-size: 11pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#666699;
+	line-height:150%;
+        text-align:left;
+}
+.chinese12 {
+	font-size: 12pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	line-height:30pt;
+}
+.chinese12b {
+	font-size: 12pt;
+	font-family: "標楷體", "Times New Roman", Times, serif;
+	color:#000000;
+	font-weight:bold;
+	line-height:20pt;
+}
+.chinese12c {
+	font-size: 12pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#D2D2FF;
+	line-height:20pt;
+}
+.chinese12e {
+	font-size: 12pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+}
+.chinese14b {
+	font-size: 14pt;
+	font-family: "標楷體", "Times New Roman", Times, serif;
+	color:#000000;
+	line-height:36pt;
+	
+}
+.chinese14 {
+	font-size: 14pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	line-height:20pt;
+	font-weight:bold;
+}
+.chinese18 {
+	font-size: 18pt;
+	font-family: "Times New Roman", "新細明體", Times, serif;
+	color:#000000;
+	font-weight:bold;
+	margin-top:20px;
+}
+.chinese20 {
+	font-size: 20pt;
+	font-family: "Times New Roman", "新細明體", "Times", "serif";
+	color:#000000;
+	font-weight:bold;
+	margin-top:10px;
+	text-align:center;
+	margin-bottom:20px;
+}
+.chinese20b {
+	font-size: 20pt;
+	font-family: "Times New Roman", "新細明體", Times, serif;
+	color:#000000;
+	font-weight:bold;
+	margin-top:10px;
+	text-align:center;
+	margin-bottom:10px;
+}
+
+.chinese20c {
+	font-size: 20pt;
+	font-family: "標楷體", Times, serif;
+	color:#000000;
+	text-align:left;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #C0C0C0;
+}
+
+
+.chinese22 {
+	font-size: 22pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	font-weight:bold;
+	margin-top:20px;
+	text-align:center;
+}
+.chinese22b {
+	font-size: 22pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	font-weight:bold;
+	margin-top:30px;
+	text-align:center;
+}
+.chinese22c {
+	font-size: 22pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	color:#000000;
+	font-weight:bold;
+	margin-top:35px;
+	text-align:center;
+	margin-bottom:25px;
+}
+.caption {
+	font-size: 10pt;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	color:#000000;
+	line-height:130%;
+	margin-top:5px;
+	margin-bottom: 5px;
+}
+.box {
+	height: auto;
+	width: auto;
+	float: left;
+	font-family: Arial, "新細明體", "Times New Roman", Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 150%;
+	color: #000000;
+	text-align: center;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	margin-bottom: 0px;
+	padding-top: 0px;
+	margin-top: 0px;
+	}
+.right {
+	float: right;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+	border-left-width: 0px;
+	border-left-style: solid;
+	border-left-color: #E8E8E8;
+}
+.left {
+	float:left;
+	margin-top: 6px;
+	margin-right: 15px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	border-right-width: 5px;
+	
+}
+body {
+	margin:0px;
+}
+li {
+	list-style-type: disc;
+	color:#000000;
+	font-size:12pt;
+	font-family: "新細明體", "Times New Roman", Times, serif;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:30px;
+	line-height:135%;
+}
+h2 {
+	font-family: "Times New Roman", "新細明體", Times, serif;
+	font-size: 17pt;
+	line-height: 125%;
+	font-weight: bold;
+	color: #000000;
+}
+
+
+
+
+.spacer {
+	clear: both;
+	height: 5px;
+}
+a.{text-decoration: none;}
+a:link {
+	color:#666699;
+	text-decoration: none;
+}
+a:visited {
+	color:#666699;
+	text-decoration: none;
+}
+a:active {
+	color:#666699;
+	text-decoration: none;
+}
+a:hover {color:#CC9900; text-decoration:underline}.subtitle3 {
+	font-size: 12pt;
+	line-height:150%;
+	font-family: "新細明體";
+	color:#868686;
+	text-align:center;
+	background-color: #FFFFFF;
+	margin-bottom: 30px;
+	padding: 2pt;
+	;
+	font-weight:bold;
+	border-top: 1px none #CCCCCC;
+	border-right: 1px none #CCCCCC;
+	border-bottom: 1px dotted #CCCCCC;
+	border-left: 1px none #CCCCCC;
+
+}
+.subtitle4 {
+	font-size: 12pt;
+	font-family: "新細明體";
+	color:#CC9900;
+	text-align:center;
+	margin-bottom: 30px;
+	;
+	font-weight:bold;
+	border-top: 1px dotted #CCCCCC;
+	border-right: medium none;
+	border-bottom: medium none;
+	border-left: medium none;
+	height: auto;
+	width: auto;
+	padding-top: 20px
+
+
+
+}
+
+font-weight:bold
+font-weight:bold
